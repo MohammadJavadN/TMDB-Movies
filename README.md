@@ -1,6 +1,6 @@
 # TMDB Movie Analysis
 
-This repository contains an analysis of the TMDB movie dataset available on Kaggle. The analysis includes data cleaning, exploratory data analysis (EDA), and model fitting to the dataset. There are two main procedures involved: one in the main branch focusing on simple EDA and data cleaning, and another in the `merg_df` branch where more advanced data cleaning, EDA, and regression/classification modeling are performed. The name of the `merg_df` branch suggests that two datasets have been merged into a single dataset.
+This repository contains an analysis of the TMDB movie dataset available on Kaggle. The analysis includes data cleaning, exploratory data analysis (EDA), and model fitting to the dataset. 
 
 ## Analysis Overview
 
@@ -35,9 +35,4 @@ The analysis utilizes the following Python packages:
 ## Dataset
 
 The TMDB movie dataset used in this analysis can be found on Kaggle [here](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data).
-
-## Repository Structure
-
-- **main**: Contains the main analysis code focusing on simple EDA and data cleaning.
-- **merg_df**: Contains advanced data cleaning, EDA, and regression/classification modeling.
 
